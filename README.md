@@ -87,7 +87,7 @@ E --> F[Actualizar navegador]
 
 ## Contribución
 
-
+Lee la [guia de contribucion](CONTRIBUTING.md) antes de enviar cambios.
 
 ## Autor
 
